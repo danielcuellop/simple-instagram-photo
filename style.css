@@ -3,7 +3,7 @@
     height: 420px;
     margin: auto;
     background: white;
-    margin-top: 8px;
+    margin-top: 12px;
 }
 .header{
 padding-top: 5px;
@@ -26,4 +26,9 @@ padding-left: 10px;
 }
 body{
 background: grey;
+}
+.titulo{
+    margin:auto;
+    width: 400px;
+    background: white;
 }
