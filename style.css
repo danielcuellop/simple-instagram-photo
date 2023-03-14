@@ -1,0 +1,29 @@
+.principal {
+    width: 400px;
+    height: 420px;
+    margin: auto;
+    background: white;
+    margin-top: 8px;
+}
+.header{
+padding-top: 5px;
+height: 50px;
+}
+.left_img{
+float: left;
+width: 130px;
+padding-left: 5px;;
+}
+.right_img{
+float: right;
+width: 50px;
+}
+.principal_img{
+width: 400px;
+}
+.text{
+padding-left: 10px;
+}
+body{
+background: grey;
+}
